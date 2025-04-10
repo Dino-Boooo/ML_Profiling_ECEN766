@@ -1,0 +1,16 @@
+name: mollypy38
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - pip=19.3.1=py38_0
+  - python_abi=3.8
+  - biopython=1.78
+  - diamond==2.0.11
+  - matplotlib
+  - pip:
+    - tqdm==4.53.0
+    - transformers==3.5.1
+    - torch==1.8.1
