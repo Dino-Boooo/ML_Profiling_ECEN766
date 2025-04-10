@@ -1,1 +1,1 @@
-# ML_taxProfiling_ECEN766
+# Benchmarking Transformer-Based Metagenomic Functional Profiling: A Comparison with Alignment Methods
