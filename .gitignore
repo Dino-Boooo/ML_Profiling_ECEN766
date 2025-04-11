@@ -1,0 +1,7 @@
+
+
+benchmark_set/*_intermediates
+
+benchmark_curation/ec_mapping/map_level4ec_uniref90.txt
+benchmark_curation/ec_mapping/uniref90_to_ec.tsv
+
