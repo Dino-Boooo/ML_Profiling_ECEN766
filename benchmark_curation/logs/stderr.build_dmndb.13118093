@@ -1,0 +1,247 @@
+diamond v2.1.9.163 (C) Max Planck Society for the Advancement of Science, Benjamin Buchfink, University of Tuebingen
+Documentation, support and updates available at http://www.diamondsearch.org
+Please cite: http://dx.doi.org/10.1038/s41592-021-01101-x Nature Methods (2021)
+
+#CPU threads: 48
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database input file: /scratch/data/bio/uniref/uniref90-2021_03.fasta
+Opening the database file...  [0.363s]
+Loading sequences... Sequences = 227660, letters = 1000002406, average length = 4392
+ [3.62s]
+Masking sequences...  [1.098s]
+Writing sequences...  [0.97s]
+Hashing sequences...  [0.205s]
+Loading sequences... Sequences = 431209, letters = 1000001107, average length = 2319
+ [3.724s]
+Masking sequences...  [1.079s]
+Writing sequences...  [1.562s]
+Hashing sequences...  [0.216s]
+Loading sequences... Sequences = 570770, letters = 1000000278, average length = 1752
+ [3.582s]
+Masking sequences...  [1.084s]
+Writing sequences...  [0.919s]
+Hashing sequences...  [0.222s]
+Loading sequences... Sequences = 693033, letters = 1000001122, average length = 1442
+ [3.846s]
+Masking sequences...  [1.079s]
+Writing sequences...  [0.921s]
+Hashing sequences...  [0.224s]
+Loading sequences... Sequences = 802178, letters = 1000000007, average length = 1246
+ [3.789s]
+Masking sequences...  [1.108s]
+Writing sequences...  [0.942s]
+Hashing sequences...  [0.23s]
+Loading sequences... Sequences = 893793, letters = 1000000832, average length = 1118
+ [3.726s]
+Masking sequences...  [1.101s]
+Writing sequences...  [0.936s]
+Hashing sequences...  [0.238s]
+Loading sequences... Sequences = 977100, letters = 1000000199, average length = 1023
+ [3.761s]
+Masking sequences...  [1.112s]
+Writing sequences...  [0.975s]
+Hashing sequences...  [0.24s]
+Loading sequences... Sequences = 1062903, letters = 1000000576, average length = 940
+ [3.745s]
+Masking sequences...  [1.104s]
+Writing sequences...  [0.949s]
+Hashing sequences...  [0.243s]
+Loading sequences... Sequences = 1145009, letters = 1000000667, average length = 873
+ [4.081s]
+Masking sequences...  [1.104s]
+Writing sequences...  [0.96s]
+Hashing sequences...  [0.243s]
+Loading sequences... Sequences = 1225173, letters = 1000000340, average length = 816
+ [4.047s]
+Masking sequences...  [1.117s]
+Writing sequences...  [0.959s]
+Hashing sequences...  [0.245s]
+Loading sequences... Sequences = 1303845, letters = 1000000142, average length = 766
+ [4.036s]
+Masking sequences...  [1.124s]
+Writing sequences...  [1.014s]
+Hashing sequences...  [0.252s]
+Loading sequences... Sequences = 1385370, letters = 1000000323, average length = 721
+ [4.03s]
+Masking sequences...  [1.12s]
+Writing sequences...  [0.973s]
+Hashing sequences...  [0.253s]
+Loading sequences... Sequences = 1466493, letters = 1000000142, average length = 681
+ [4.008s]
+Masking sequences...  [1.128s]
+Writing sequences...  [0.973s]
+Hashing sequences...  [0.257s]
+Loading sequences... Sequences = 1550736, letters = 1000000291, average length = 644
+ [3.991s]
+Masking sequences...  [1.136s]
+Writing sequences...  [0.992s]
+Hashing sequences...  [0.263s]
+Loading sequences... Sequences = 1635206, letters = 1000000302, average length = 611
+ [4.046s]
+Masking sequences...  [1.153s]
+Writing sequences...  [0.999s]
+Hashing sequences...  [0.267s]
+Loading sequences... Sequences = 1718551, letters = 1000000017, average length = 581
+ [4.003s]
+Masking sequences...  [1.152s]
+Writing sequences...  [1.071s]
+Hashing sequences...  [0.271s]
+Loading sequences... Sequences = 1801478, letters = 1000000214, average length = 555
+ [4.089s]
+Masking sequences...  [1.145s]
+Writing sequences...  [1.005s]
+Hashing sequences...  [0.274s]
+Loading sequences... Sequences = 1883338, letters = 1000000241, average length = 530
+ [4.013s]
+Masking sequences...  [1.137s]
+Writing sequences...  [1.009s]
+Hashing sequences...  [0.276s]
+Loading sequences... Sequences = 1965583, letters = 1000000073, average length = 508
+ [4.111s]
+Masking sequences...  [1.144s]
+Writing sequences...  [1.018s]
+Hashing sequences...  [0.281s]
+Loading sequences... Sequences = 2045419, letters = 1000000315, average length = 488
+ [4.113s]
+Masking sequences...  [1.151s]
+Writing sequences...  [1.028s]
+Hashing sequences...  [0.281s]
+Loading sequences... Sequences = 2125667, letters = 1000000314, average length = 470
+ [4.099s]
+Masking sequences...  [1.19s]
+Writing sequences...  [1.032s]
+Hashing sequences...  [0.284s]
+Loading sequences... Sequences = 2206158, letters = 1000000177, average length = 453
+ [4.462s]
+Masking sequences...  [1.155s]
+Writing sequences...  [1.051s]
+Hashing sequences...  [0.287s]
+Loading sequences... Sequences = 2289121, letters = 1000000385, average length = 436
+ [4.467s]
+Masking sequences...  [1.171s]
+Writing sequences...  [1.058s]
+Hashing sequences...  [0.292s]
+Loading sequences... Sequences = 2373996, letters = 1000000165, average length = 421
+ [4.468s]
+Masking sequences...  [1.199s]
+Writing sequences...  [1.22s]
+Hashing sequences...  [0.294s]
+Loading sequences... Sequences = 2462736, letters = 1000000258, average length = 406
+ [4.493s]
+Masking sequences...  [1.197s]
+Writing sequences...  [1.137s]
+Hashing sequences...  [0.514s]
+Loading sequences... Sequences = 2552116, letters = 1000000182, average length = 391
+ [4.568s]
+Masking sequences...  [1.19s]
+Writing sequences...  [1.104s]
+Hashing sequences...  [0.3s]
+Loading sequences... Sequences = 2650115, letters = 1000000261, average length = 377
+ [4.554s]
+Masking sequences...  [1.256s]
+Writing sequences...  [1.107s]
+Hashing sequences...  [0.305s]
+Loading sequences... Sequences = 2756120, letters = 1000000133, average length = 362
+ [4.56s]
+Masking sequences...  [1.21s]
+Writing sequences...  [1.161s]
+Hashing sequences...  [0.326s]
+Loading sequences... Sequences = 2868794, letters = 1000000185, average length = 348
+ [4.574s]
+Masking sequences...  [1.249s]
+Writing sequences...  [1.168s]
+Hashing sequences...  [0.322s]
+Loading sequences... Sequences = 2981083, letters = 1000000177, average length = 335
+ [4.626s]
+Masking sequences...  [1.203s]
+Writing sequences...  [1.127s]
+Hashing sequences...  [0.321s]
+Loading sequences... Sequences = 3099371, letters = 1000000270, average length = 322
+ [4.614s]
+Masking sequences...  [1.249s]
+Writing sequences...  [1.133s]
+Hashing sequences...  [0.326s]
+Loading sequences... Sequences = 3227727, letters = 1000000184, average length = 309
+ [4.588s]
+Masking sequences...  [1.237s]
+Writing sequences...  [1.146s]
+Hashing sequences...  [0.331s]
+Loading sequences... Sequences = 3365535, letters = 1000000178, average length = 297
+ [4.566s]
+Masking sequences...  [1.249s]
+Writing sequences...  [1.17s]
+Hashing sequences...  [0.337s]
+Loading sequences... Sequences = 3520830, letters = 1000000232, average length = 284
+ [4.608s]
+Masking sequences...  [1.285s]
+Writing sequences...  [1.186s]
+Hashing sequences...  [0.346s]
+Loading sequences... Sequences = 3701646, letters = 1000000037, average length = 270
+ [4.735s]
+Masking sequences...  [1.244s]
+Writing sequences...  [1.21s]
+Hashing sequences...  [0.353s]
+Loading sequences... Sequences = 3898910, letters = 1000000060, average length = 256
+ [4.898s]
+Masking sequences...  [1.272s]
+Writing sequences...  [1.652s]
+Hashing sequences...  [0.362s]
+Loading sequences... Sequences = 4123386, letters = 1000000156, average length = 242
+ [4.852s]
+Masking sequences...  [1.286s]
+Writing sequences...  [1.248s]
+Hashing sequences...  [0.383s]
+Loading sequences... Sequences = 4400620, letters = 1000000196, average length = 227
+ [5.224s]
+Masking sequences...  [1.314s]
+Writing sequences...  [1.266s]
+Hashing sequences...  [0.386s]
+Loading sequences... Sequences = 4724267, letters = 1000000069, average length = 211
+ [5.386s]
+Masking sequences...  [1.32s]
+Writing sequences...  [1.305s]
+Hashing sequences...  [0.399s]
+Loading sequences... Sequences = 5122857, letters = 1000000030, average length = 195
+ [5.443s]
+Masking sequences...  [1.36s]
+Writing sequences...  [1.34s]
+Hashing sequences...  [0.416s]
+Loading sequences... Sequences = 5634758, letters = 1000000133, average length = 177
+ [5.526s]
+Masking sequences...  [1.39s]
+Writing sequences...  [1.391s]
+Hashing sequences...  [0.437s]
+Loading sequences... Sequences = 6303575, letters = 1000000139, average length = 158
+ [5.565s]
+Masking sequences...  [1.443s]
+Writing sequences...  [1.472s]
+Hashing sequences...  [0.467s]
+Loading sequences... Sequences = 7182019, letters = 1000000113, average length = 139
+ [6.897s]
+Masking sequences...  [1.487s]
+Writing sequences...  [1.545s]
+Hashing sequences...  [0.506s]
+Loading sequences... Sequences = 8596798, letters = 1000000010, average length = 116
+ [6.458s]
+Masking sequences...  [1.578s]
+Writing sequences...  [1.718s]
+Hashing sequences...  [0.566s]
+Loading sequences... Sequences = 11658278, letters = 1000000062, average length = 85
+ [7.582s]
+Masking sequences...  [1.756s]
+Writing sequences...  [2.019s]
+Hashing sequences...  [0.703s]
+Loading sequences... Sequences = 6689721, letters = 360746854, average length = 53
+ [3.359s]
+Masking sequences...  [0.803s]
+Writing sequences...  [1.613s]
+Hashing sequences...  [0.36s]
+Loading sequences...  [0s]
+Writing trailer...  [2.221s]
+Closing the input file...  [0s]
+Closing the database file...  [0.025s]
+
+Database sequences  135301051
+  Database letters  45360760554
+     Database hash  3155d77929c324cead89af51f153a58d
+        Total time  335s

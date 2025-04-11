@@ -1,7 +1,9 @@
-
-
-benchmark_set/*_intermediates
-
+# Ignore known large files
 benchmark_curation/ec_mapping/map_level4ec_uniref90.txt
 benchmark_curation/ec_mapping/uniref90_to_ec.tsv
+benchmark_curation/diamond/uniref90-2021_03.dmnd
+
+# Ignore all intermediate files across datasets
+benchmark_curation/benchmark_set/*_intermediates/
+benchmark_curation/benchmark_set/*.fasta
 
