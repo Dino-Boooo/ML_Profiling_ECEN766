@@ -9,3 +9,7 @@ The model we are evaluating is the DeepECtranformer. This model was trained on a
 
         python run_deepectransformer.py -i ./example/mdh_ecoli.fa -o ./example/results -g cpu -b 128 -cpu 2
         python run_deepectransformer.py -i ./example/mdh_ecoli.fa -o ./example/results -g cuda:3 -b 128 -cpu 2
+
+## Benchmark Set: Zenodo
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15192200.svg)](https://doi.org/10.5281/zenodo.15192200)
+
